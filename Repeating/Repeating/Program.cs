@@ -57,6 +57,7 @@ namespace Methods
                 }
             }
             Console.WriteLine($" {finderN} soni {maxCounter} marta ");
+            Console.WriteLine("Kompaniyamiz xizmatlaridan foydalanganingiz uchun tashakkur)");
 
         }
     }
